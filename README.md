@@ -2,11 +2,10 @@
 
 ## Table of Contents
 - [Background](#background)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Data Cleansing](#data-cleansing)
+- [Explorary Findings](#exploratory-findings)
+- [Bar Coupon Analysis](#bar-coupon-analysis)
+- [Independent Ivestigation](#independent-investigation)
 
 ## Background
 This is a practical application assignment that focuses on using data analysis skills.
@@ -22,11 +21,8 @@ This project aims to analyze the data collected via a survey on Amazon Mechanica
 ## Data Used:
 [In-Vehicle Coupon Recommendation](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation)
 
-## Features
+## Data Cleansing
 
-
-## Installation
-Instructions to install the project:
 1. Step one
 
     Check for the number of null entries for each of the columns.
@@ -45,7 +41,7 @@ Instructions to install the project:
 1. Only 56.8% of the customers used the coupons
 2. More coupons get used during the warmer days than the colder days
 
-## Bar Coupons Analysis
+## Bar Coupon Analysis
 1. Only 41% of bar coupons were used by customers
 2. Customers who went to bars more than 3 or 4 times in month used the coupons 76.9% of the time, where was customers who went lesser number of times used the coupons only 37.1% of the time.
 3. Customers who went to bars more than once a month and are over age 25 used the coupons ~68% of the time, where was those went less than once and are below 25 years old used coupons 42% of the time.
@@ -62,8 +58,6 @@ Instructions to install the project:
     - 1-Day Coupons are used more than 2-Hour Coupons
     - ![1-Day Coupon Usage](https://github.com/nbajam/BH-PCAIML-MOD5-PAA1/blob/main/images/daycoupons.png)
     - ![2-Hour Coupon Usage](https://github.com/nbajam/BH-PCAIML-MOD5-PAA1/blob/main/images/hourcoupons.png)
-
-
 ### Analysis of 'Restaurant (<20)' Coupons
 1. Coupon Usage by Gender 
     - Coupon usage by Males (48.5%) is higher than Females (34.1%)
