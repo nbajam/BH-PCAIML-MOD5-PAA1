@@ -1,7 +1,5 @@
 # Berkeley Haas - Professional Certificate in Machine Learning and Artificial Intelligence - Module 5 - Practical Application 1
 
-A brief description of your project.
-
 ## Table of Contents
 - [Background](#background)
 - [Features](#features)
@@ -11,8 +9,7 @@ A brief description of your project.
 - [License](#license)
 
 ## Background
-This is a practical application assignment that focuses on using data analysis skills, in an effort to seek answers to the question based on survey results: “Will a driving customer accept the coupon if offered for visiting a restaurant/bar/coffee shop on their way to a destination?”
-
+This is a practical application assignment that focuses on using data analysis skills.
 This project aims to analyze the data collected via a survey on Amazon Mechanical Turk. 
 
 ### There are two parts in this project: 
