@@ -5,7 +5,8 @@
 - [Data Cleansing](#data-cleansing)
 - [Explorary Findings](#exploratory-findings)
 - [Bar Coupon Analysis](#bar-coupon-analysis)
-- [Independent Ivestigation](#independent-investigation)
+- [Independent Investigation](#independent-investigation)
+- [Next Steps](#next-steps)
 
 ## Background
 This is a practical application assignment that focuses on using data analysis skills.
@@ -68,3 +69,10 @@ This project aims to analyze the data collected via a survey on Amazon Mechanica
 3. Coupon Usage by Income
     - Surprisingly Highest Earners have the highest coupon utilization rate.
     - ![Coupon Usage by Income](https://github.com/nbajam/BH-PCAIML-MOD5-PAA1/blob/main/images/rest20_byincome.png)
+  
+  ## Next Steps
+  1. Feature Engineering
+     - Find the correlations between features and look at ways to reduce the number of features.
+     - Text tranformations: Convert textual data into numeric format
+  2. Building Baseline Models for classification
+    - Build models using Linear Regression, Decision Trees, K-Nearest Neighbors and SVMs for classification.
