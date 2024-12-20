@@ -77,4 +77,3 @@ Instructions to install the project:
 3. Coupon Usage by Income
     - Surprisingly Highest Earners have the highest coupon utilization rate.
     - ![Coupon Usage by Income](https://github.com/nbajam/BH-PCAIML-MOD5-PAA1/blob/main/images/rest20_byincome.png)
-oupon_GEQ5min' has only 1 value. i.e, No variance and hence this feature does not impact the output column or in other words, there is no way to find if this column has any impact on the outcome / output. 
